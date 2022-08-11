@@ -4,7 +4,7 @@ import { Button } from '../components/Button';
 
 const Home: NextPage = () => (
   <div>
-    <p>Hello world</p>
+    <p>Hello world test</p>
     <Button count={2} />
   </div>
 );
